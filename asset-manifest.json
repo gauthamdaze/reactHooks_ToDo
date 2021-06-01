@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todo-with-hooks/static/css/main.550237c4.chunk.css",
+    "main.js": "/todo-with-hooks/static/js/main.a9552928.chunk.js",
+    "main.js.map": "/todo-with-hooks/static/js/main.a9552928.chunk.js.map",
+    "runtime-main.js": "/todo-with-hooks/static/js/runtime-main.1e9ef7cd.js",
+    "runtime-main.js.map": "/todo-with-hooks/static/js/runtime-main.1e9ef7cd.js.map",
+    "static/js/2.fb5ada59.chunk.js": "/todo-with-hooks/static/js/2.fb5ada59.chunk.js",
+    "static/js/2.fb5ada59.chunk.js.map": "/todo-with-hooks/static/js/2.fb5ada59.chunk.js.map",
+    "index.html": "/todo-with-hooks/index.html",
+    "precache-manifest.88c7c4b1172052c51902e6dc4e66cb5a.js": "/todo-with-hooks/precache-manifest.88c7c4b1172052c51902e6dc4e66cb5a.js",
+    "service-worker.js": "/todo-with-hooks/service-worker.js",
+    "static/css/main.550237c4.chunk.css.map": "/todo-with-hooks/static/css/main.550237c4.chunk.css.map",
+    "static/js/2.fb5ada59.chunk.js.LICENSE.txt": "/todo-with-hooks/static/js/2.fb5ada59.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/todo-with-hooks/static/media/background.4f646371.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e9ef7cd.js",
+    "static/js/2.fb5ada59.chunk.js",
+    "static/css/main.550237c4.chunk.css",
+    "static/js/main.a9552928.chunk.js"
+  ]
+}
